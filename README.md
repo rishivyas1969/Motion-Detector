@@ -12,4 +12,4 @@ To work with Frames i used OpenCV Python library.
 Check some ssess....
 
 ![](./ss/ss1.png)
-![](./ss/ss2.png)
+![](./ss/ss3.png)
