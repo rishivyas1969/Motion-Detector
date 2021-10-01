@@ -9,7 +9,7 @@ After capturing all frames we need to press
  
 To work with Frames i used OpenCV Python library.
 
-Check some ssess....
+Check out some screenshots provided below
 
 ![](./ss/ss1.png)
 ![](./ss/ss3.png)
